@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new adventure, for law-books to be disposed of by lot, wherein all are gainers.</title>
+            <author>Browne, Daniel, 1647-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08576</idno>
+            <idno type="STC">Wing B5012A</idno>
+            <idno type="STC">ESTC R175623</idno>
+            <idno type="EEBO-CITATION">64550998</idno>
+            <idno type="OCLC">ocm 64550998</idno>
+            <idno type="VID">184394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184394)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new adventure, for law-books to be disposed of by lot, wherein all are gainers.</title>
+                  <author>Browne, Daniel, 1647-1727.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Daniel Browne. Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside stained and torn with some loss of text.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184394:1"/>
+            <head>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>DVENT<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>E For LAW-BOOKS to be diſpoſed of by <hi>LOT, <hi>Wherein all are Gainers.</hi>
+               </hi>
+            </head>
+            <p>THE Remainder of the Impreſſions of the following LAW-BOOKS, being come into the hands of <hi>Dan. Brown</hi> and <hi>John Nicholſon,</hi> containing about 2400 Books of the Reports in <hi>Folio,</hi> and near 500 Books of Entries, and other valuable Law-Books in <hi>Folio,</hi> many of which are in ſeveral Volumes, and all of the beſt Editions: They are propoſed to be diſ<g ref="char:EOLhyphen"/>poſed of in QUIRES, by Lots wherein will be no Blanks; every Perſon, putting in a <hi>Guinea,</hi> being ſure of a Book or Books at leaſt worth his Money, and 'tis not Two to One but he gets what is worth twice his Money, nor Four to One but he gets what is worth four times his Money, beſides the Firſt and Laſt Lot.</p>
+            <p>In Law-Books the very great Charge in Printing is to be conſider'd; and 'tis ap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t the Adventures in this, one with another, get what coſt near double the Money in Paper and Print, ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they can never be reprinted at any ſuch Price, and all theſe are of the laſt Editions, with intire Tables, References, Judges Opinions, <hi>&amp;c.</hi>
+            </p>
+            <p>There is a farther Advantage to the Adventurers, that the taking off the whole Number will make the Books ſcarce, and ſo conſequently very dear; ſo that in all probability the Perſon that gets the worſt Lot for his Guinea, may in a little time ſell it for more Money. For as in the Caſe of Modern Reports<g ref="char:punc">▪</g> 
+               <hi>Vaughans Reports, Stiles Reports, Jenkins Reports,</hi> and many more, being diſperſt in Gentlemens hands and ſcarce, will now yield above double the Money they did when Common; which will be the Caſe of theſe.</p>
+            <div type="part">
+               <head>The PROPOSALS are,</head>
+               <p>That Fifteen Hundred Tickets be deliver'd out at a <hi>Guinea per</hi> Ticket; that it ſhall be drawn after the uſual Method, by putting 1500 Numbers roll'd up in a Glaſs, and 1500 Tickets with ſome one or more of the following Books, according to this Scheme, in the other Glaſs; and theſe Gentlemen have promiſed to be preſent at the time of Rolling up the Tickets and Drawing, to ſee the whole managed with all Care and Faithfulneſs, <hi>viz.</hi> Sir <hi>Henry Chancey,</hi> Kt. Serjeant at Law; <hi>William Stringer,</hi> of <hi>Greys-Inn,</hi> Eſq; <hi>James Wright,</hi> of the <hi>Middle-Temple,</hi> Eſq; <hi>William Fiſher,</hi> Gent. and Mr. <hi>Benj. Motte.</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>The DIVISION of the Lots,</head>
+                     <row>
+                        <cell rows="3">70 Lots of theſe 3</cell>
+                        <cell>
+                           <hi>Moor</hi>'s Reports</cell>
+                        <cell rows="3">firſt value 4 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Keble</hi>'s Rep. in 3 Vol.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Daliſon</hi> &amp; <hi>Bendloes</hi> Rep.</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">70 Lots of theſe 3</cell>
+                        <cell>
+                           <hi>Palmer</hi>'s Reports</cell>
+                        <cell rows="3">value 3 <hi>l. 10 s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Keble</hi>'s Reports in 3 Vol.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carter</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">100 of theſe 2</cell>
+                        <cell>
+                           <hi>Dyer</hi>'s Reports</cell>
+                        <cell rows="2">value 1 <hi>l. 10 s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jones</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">98 Lots of theſe 3</cell>
+                        <cell>
+                           <hi>Daliſon</hi> &amp; <hi>Bendloes</hi> Rep.</cell>
+                        <cell rows="3">value 1 <hi>l. 14s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Palmer</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jone</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">100 of theſe 3</cell>
+                        <cell>
+                           <hi>Kelway</hi>'s Reports</cell>
+                        <cell rows="3">value 1 <hi>l. 15s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Palmer</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell>7 Tryals, <hi>viz.</hi> of <hi>Charnock,</hi> Sir <hi>John Friend,</hi> Sir <hi>Wil. Par<g ref="char:EOLhyphen"/>kins,</hi> &amp;c.</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">58 Lots of theſe 3</cell>
+                        <cell>
+                           <hi>Hanſard</hi>'s Entries</cell>
+                        <cell rows="3">val. 1 <hi>l. 18 s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Kelway</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell>Arguments, City Chart.</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">40 Lots of theſe 2</cell>
+                        <cell>
+                           <hi>Plowden</hi>'s Comment.</cell>
+                        <cell rows="2">value 1 <hi>l. 8s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Argument. Chart.</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">62 Lots of theſe 2</cell>
+                        <cell>
+                           <hi>Palmer</hi>'s Reports</cell>
+                        <cell rows="2">value 1 <hi>l. 5s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Daliſon</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell rows="7">98 Lots of ſome 2 of theſe Books ſeveral, worth more than their Money, <hi>viz.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Dyer</hi>'s Reports</cell>
+                        <cell rows="7"> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Daliſon</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carter</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cowell</hi>'s Interpreter</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Keble</hi>'s Juſtice.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cotton</hi>'s Records, Large</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Palmer</hi>'s Reports</cell>
+                     </row>
+                     <row>
+                        <cell rows="16">804 Lots of ſome one of theſe Books, <hi>viz.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Moore</hi>'s Reports</cell>
+                        <cell>180</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Keble</hi>'s Rep. 3. vol.</cell>
+                        <cell>407</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dyer</hi>'s Reports</cell>
+                        <cell>98</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Moor</hi>'s Reports large Pap.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ventris</hi> Reports</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dyer</hi>'s Rep. large Paper</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Syderſin</hi>'s Reports</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Saunder</hi>'s Reports</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Leonard</hi>'s Reports</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bulſtrode</hi>'s Reports</cell>
+                        <cell>36</cell>
+                     </row>
+                     <row>
+                        <cell>Year-Book, compleat, with <hi>Maynards Edw.</hi> II.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rolls</hi>'s Abridgment</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>—</hi> Reports, compl.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cook's</hi> Entries</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Raſtal's</hi> Entries</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Crooke</hi>'s Rep. laſt Ed. 3 vol.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell role="total">1500</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Firſt and laſt Lot gets, beſides the Books drawn with it, a compleat Set of Year-Books, with <hi>Maynard; Kebles Reports, Moore</hi> and <hi>Dyers Reports</hi> both large Paper, <hi>Palmers Reports, Ventris Reports, Kelways Re<g ref="char:EOLhyphen"/>ports, Daliſons Reports, Carters Reports,</hi> and <hi>Jones Reports, Arguments about the City Charter,</hi> all neatly bound and letter'd on the back, Value at leaſt 20 <hi>l.</hi> And as the Lots and Numbers are drawn, they ſhall be reſpectively enter'd in two Books, and put on a File, and the whole ſpeedily printed, that every Perſon may know what Books they are to demand, which will be delivered t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſeveral Adven<g ref="char:EOLhyphen"/>turers ſo ſoon as drawn.</p>
+               <p>The Propoſals being ſo fair and advantagious, it has already met with ſuch Encouragement, that it will be drawn on <hi>Thurſday, July</hi> 21. 1698.</p>
+               <p>Propoſals and Tickets may be had of the Undertakers <hi>Dan. Brown,</hi> at the <hi>Black Swan</hi> and <hi>Bible</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-bar,</hi> and <hi>John Nicholſon,</hi> at the <hi>Kings Arms</hi> in <hi>Little Britain;</hi> and alſo of Mr. <hi>Will. Henſman</hi> in <hi>Weſtminſter-hall;</hi> Mr. <hi>Harriſon</hi> at <hi>Lincolns-Inn Gate</hi> in <hi>Chancery-lane;</hi> Mr. <hi>Hartley</hi> over againſt <hi>Greys-Inn Gate</hi> in <hi>Holborn;</hi> Mr. <hi>Rich. Hargrave</hi> at the <hi>Rainbow Coffee-houſe</hi> in <hi>Fleet-ſtreet;</hi> Mr. <hi>Knaplock</hi> in St. <hi>Pauls Church-yard,</hi> and Mr. <hi>Rich. Parker</hi> under the <hi>Royal-Exchange</hi> in <hi>Cornhil;</hi> and of moſt other Bookſellers in <hi>Fleet-ſtreet</hi> and near the <hi>Inns of Court.</hi> Timely notice ſhall be given of the Place where drawn.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>☞ The Second Part of Modern Reports, being a Collection of ſeveral Special Caſes moſt of them Adjudged in the Court of Common Pleas, in the 26<g ref="char:punc">▪</g> 27, 28, 29 and 30th Years of the Reign of</hi> King Charles II. <hi>when Sir</hi> Fra. North <hi>was Chief Iuſtice of the ſaid Court. To which are added, ſeveral ſelect Caſes in the Courts of Chancery, Kings-Bench, and Exchequer in the ſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rs. Carefully Collected by a Learned Hand.</hi> Printed for <hi>Charles Harper</hi> at the <hi>Flower<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+               </hi> againſt <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſtans</hi> Church in <hi>Fleetſtreet,</hi> 1698. Price <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:184394:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
